@@ -1,0 +1,11 @@
+node_modules
+package-lock.json
+.env
+main.js
+Book2.xlsx
+Customer_Details_For_NCR_Region.xlsx
+Gig _Riders_Info.xlsx
+ClosingTickets.xlsx
+NCR_roles.xlsx
+prod-build
+dev-build
